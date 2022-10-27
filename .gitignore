@@ -1,0 +1,7 @@
+# full textures 
+*.tga
+*.ppm
+
+# others
+.DS_Store
+
