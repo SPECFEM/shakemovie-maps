@@ -61,7 +61,7 @@ git lfs pull --include "moon/<file>"
 
 or if no git available:
 ```
-wget https://github.com/SPECFEM/shakemovie-maps/blob/master/moon/<file>?raw=true
+wget https://github.com/SPECFEM/shakemovie-maps/blob/main/moon/<file>?raw=true
 ```
 
 You might have to uncompress the files you want using the bunzip2 command.

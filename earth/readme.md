@@ -34,7 +34,7 @@ git lfs pull --include "earth/<file>"
 
 or if no git available:
 ```
-wget https://github.com/SPECFEM/shakemovie-maps/blob/master/earth/<file>?raw=true
+wget https://github.com/SPECFEM/shakemovie-maps/blob/main/earth/<file>?raw=true
 ```
 
 You might have to uncompress the files you want using the bunzip2 command.
